@@ -1,6 +1,8 @@
-To do list:
+# translation_factor_evolution
 
-- Extract increasingly distant lineage to E. coli
-- Compare IF2 and EFTU models to each ancestor quantitatively
+# Notes:
+Code will require access to `Data` and `Results` folders that are large, and can be found elsewhere for those who are on the need-to-know basis for this in-progress project.
 
-- Re-run template model prediction
+# To-do list:
+
+At present, this is empty. 
